@@ -1,4 +1,4 @@
-connection: "bigquery-connectors-youtube-channel-owner"
+connection: "dev-redshift"
 
 # include all the views
 include: "*.view"
